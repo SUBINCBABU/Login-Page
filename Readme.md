@@ -5,7 +5,7 @@
 
 
  ## Sign-Up page
-![Sign-up](./images/Sign-up.png)
+![sign-up](./images/sign-up.png)
 
  ## Sign-In page
 ![Sign-In](./images/Sign-In.png)
